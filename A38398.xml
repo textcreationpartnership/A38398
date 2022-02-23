@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands gratulation on the landing of Charles the Second, by the grace of God Kiug [sic] of England, Scotland, France, and Ireland, at Dover and his advance from thence to the city of London, May the 29, being his birth day, attended with all the ancient nobility and gentry of this nation and a great part of the army commanded by His Excellence the Lord Generall Monk, his magnificent entertainment in the city of London by the Right Honourable the lord mayor and his brethren, and the great preparation for his coronation which wil be more ful of state and tryumph then ever King of England had before.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38398</idno>
+            <idno type="STC">Wing E2972</idno>
+            <idno type="STC">ESTC R26730</idno>
+            <idno type="EEBO-CITATION">09527548</idno>
+            <idno type="OCLC">ocm 09527548</idno>
+            <idno type="VID">43504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43504)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1330:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands gratulation on the landing of Charles the Second, by the grace of God Kiug [sic] of England, Scotland, France, and Ireland, at Dover and his advance from thence to the city of London, May the 29, being his birth day, attended with all the ancient nobility and gentry of this nation and a great part of the army commanded by His Excellence the Lord Generall Monk, his magnificent entertainment in the city of London by the Right Honourable the lord mayor and his brethren, and the great preparation for his coronation which wil be more ful of state and tryumph then ever King of England had before.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gilbertson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43504:1"/>
+            <pb facs="tcp:43504:1" rendition="simple:additions"/>
+            <p>Englands GRATULATION ON The Landing of Charles the Second, by the grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> at Dover, and his advance from thence to the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> May the 29. being His Birth Day.</p>
+            <p>Attended with all the ancient-Nobility and Gentry of this nation, and a great part of the army commanded by his Excellence the Lord Generall MONK, His magnificent entertainment in the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> by the Right Honourable the Lord Mayor and his Brethren, and the great preparation for his Coronation, which wil be more ful of ſtate and tryumph then ever King of <hi>England</hi> had before.</p>
+            <figure>
+               <q xml:lang="lat">SPES ADDIDIT ALAS</q>
+               <figDesc>printer's device, consisting a winged skull and motto</figDesc>
+            </figure>
+            <p>London, Printed for VVilliam Gilbertſon.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:43504:2"/>
+            <pb n="1" facs="tcp:43504:2"/>
+            <head>Englands Gratulation on the lan<g ref="char:EOLhyphen"/>ding of <hi>Charles</hi> the Second, King of <hi>England, Scotland, France.</hi> and <hi>Ireland,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Tueſday May the 29. His Majeſty made his Entrance into the City of London: and it is very remarkeable that Tuesdays are (with ſome Rubrick at leaſt) to be obſerved in our Almanacks. It was on a Tueſday that my late Lord King Charls Father to this preſent King, was beheaded. It was on a Tueſd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that this King was born. It was on a Tueſday that he received the intelligence at Bruſſels, that a way was made for his inauguration in England. It was on a Tueſday that he came from Bruſſells to Breda. It was on a Tueſday he was Proclaimed King. And it was on a Tueſ<g ref="char:EOLhyphen"/>day that he came unto London. The manner and gallant Equipage whereof is the preſent ſubject of this diſcourſe.</p>
+            <p>The King on Monday having bin moſt Honourably received by the moſt Illuſtrious the Lady Mary, Counteſſe Dowager of Richmond, did on Tueſday prepare himſelfe himſelfe for London: He had before at his firſt Landing bin nobly entertain'd by the Mayors of Dover and Canter<g ref="char:EOLhyphen"/>bury, where finding with what a flame of Love and Duty he was expected and attended, He made more haſt to his City of London: there was never ſeen a more gallant train of the Nobility and Gentry of England then at this preſent, and every one ſtriving to exceed another at much in loyalty, as in Gallantry, the wayes on both ſides
+<pb facs="tcp:43504:3"/>were hedged with people, and the trees were filled with them to behold his Majeſty as he Paſſed by, the ſhouts and acclamations were loud, and univerſal. Comming to Dartfort there were a hundred maids arrayed all in white, who ſtrowed the way with Lillies and Roſes before him, which ſweet ceremonies were continued by theſe untill he came to his pallace at White-hall, the ſtreets as he paſſed all along were railed in: It was Ordered that no Muskets ſhould be diſcharged, to the end that the Traytors (if any ſhould be ſo barbarous as to make a deſperate ſhot) might more readily be diſcovered; but had the Muskets of the City and the Army made never ſo many Volleys, the ſhouts and the Acclamations of the many thouſands that perpetually cryed God ſave the King, were ſo loud, that they would even have deafned the noyſe of the Guns: the King was on Horſe-back in a ſad colourd Suit, and a Red Feather round about his Hat: On the right hand of him rode the Duke of Yorke, and on the left hand the Duke of Gloceſter: a little before him rode his Excellence the Lord Generall Monk bare-headed, and the Marqueſſe of Newcaſtle, Maſter of the Horſe, and a little before them were the Lord Mayor, and his Brethren the Aldermen, and many other Citizens moſt richly habited, and behind there rode bare-headed my Lord Viscount Mordant, my Lord the Earle of Northampton, the Earle of Northum<g ref="char:EOLhyphen"/>berlands and my Lord Jocelin his Son, and a numerous and glorious company of the Nobility and Gentry. In this ſtately Equipage he came to Whitehall about ſixe of the Clock in the evening, where <hi>Long may he live to Reigne over us,</hi> and let all the people ſay <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="3" facs="tcp:43504:3"/>
+            <head>Englands Gratulation.</head>
+            <l>Aſſiſt me all the Nine, helpe me to ſing</l>
+            <l>The glorious praiſes of great <hi>Charls</hi> our King,</l>
+            <l>whom heaven hath try'd and brought out of the fire</l>
+            <l>And layd him low to raiſe him up the higher</l>
+            <l>That to the wondring world he is become</l>
+            <l>The Grace and Glory of all Chriſtendome,</l>
+            <l>'Tis he repaires our Breaches, and reſtores</l>
+            <l>Our Land to ſafty, and doth heale our ſores,</l>
+            <l>'Tis he that ſtrokes our griefs, and wipes our eyes,</l>
+            <l>Sets us in order and doth make us wiſe.</l>
+            <l>For ne'r was Nation ſo before miſled,</l>
+            <l>To Court the Tayle and make the Rump their head?</l>
+            <l>No more wee now ſhall rayle at Noble Blood,</l>
+            <l>No more ſhall rich men for their little good</l>
+            <l>Be look<hi>'t</hi> upon as guilty, nor vile ſpyes</l>
+            <l>Enjoy the luſt of their ſo murdring eyes.</l>
+            <l>Men ſhall put off their Iron hands and hearts,</l>
+            <l>The times forget their old malitious arts,</l>
+            <l>With this new minute, and no print remain</l>
+            <l>Of what was thought the former ages ſtain,</l>
+            <l>where are our Saints now that would fain be known</l>
+            <l>To have no other holiday but their own.</l>
+            <l>Where are our cruell <hi>Regicids,</hi> and all</l>
+            <l>The petulent Crew wee <hi>Anabaptiſts</hi> call.</l>
+            <pb facs="tcp:43504:4"/>
+            <l> Whoſe wild Religion and whoſe zeale doth border</l>
+            <l>On Faction, Ruine, Falſhood and diſorder.</l>
+            <l>Whoſe Goſpell ſpeaks, <hi>It is too hard a thing</hi>
+            </l>
+            <l>
+               <hi>At once, to fear God, and obey the King,</hi>
+            </l>
+            <l>And from their Bibles doe expunge that text</l>
+            <l>As too obliging, or too much perplext.</l>
+            <l>Behold the hour's at hand that ſhall declare</l>
+            <l>What men of conſcience, and what Saints they are</l>
+            <l>That ſtill purſue [Oh moſt unhumane wrongs)</l>
+            <l>The Lords Anoynted with their threatning tongus,</l>
+            <l>As if the Father ſlain, they had not done</l>
+            <l>Enough, unleſſe they maſſacred the Sonne:</l>
+            <l>This to prevent, the King himſelfe druws nigh,</l>
+            <l>Full of his cauſe, his eye with Majeſty,</l>
+            <l>His brow with thunders arm'd, and on each hand,</l>
+            <l>The youth of Heaven in files unnumbred ſtand.</l>
+            <l>His glorious guard, for the world be't known,</l>
+            <l>That heaven is pleaſed to make this cauſe his own,</l>
+            <l>For who the King affront the like would do</l>
+            <l>To th' King of Kings, could they come at him too;</l>
+            <l>And as the Sun when his abſented light,</l>
+            <l>Approacheth neerer, day doth ſmile outright,</l>
+            <l>And the thick Vapours of the night do fly,</l>
+            <l>In guilty tumults from his ſearching eye,</l>
+            <l>So now the King in perſon hath begun,</l>
+            <l>To ſhew himſelf like the <hi>Meridian</hi> ſun,</l>
+            <l>To ſhine in all his glories, and diſpence,</l>
+            <l>Throughout his Iſle his powerful influence,</l>
+            <l>The clouds of bold Rebellion, the falſe light,</l>
+            <l>Of falſer zeal, and meteors of the night,</l>
+            <l>The ſullen Vapours, and the miſts that made</l>
+            <pb n="5" facs="tcp:43504:4"/>
+            <l> A great confuſſion in ſo great a ſhade</l>
+            <l>Shall waſt before him, as he comes our ſtates,</l>
+            <l>Extreams to temper, for it pleaſed the fat es,</l>
+            <l>Though others labourd in the work yet none,</l>
+            <l>Should heal our griefes but who our hearts do own,</l>
+            <l>Nor ſhall this Iſle regaine her antient worth,</l>
+            <l>But by that monarch which this Iſle brought forth.</l>
+            <l>And fame no ſooner to our ears did bring,</l>
+            <l>The joyful ſtory of the landed King,</l>
+            <l>But all the Lords and Gentry of the land,</l>
+            <l>Made haſt to waite upon his high command,</l>
+            <l>So full their trayn, ſo gallant their array,</l>
+            <l>As if their ſplendour would outſhine the day,</l>
+            <l>There was the Noble General, with whom</l>
+            <l>The beſt of all his men of armes did come,</l>
+            <l>And many able Citizens were ſent,</l>
+            <l>To make the ſhow ſeem mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e magnificent,</l>
+            <l>Who all ſo ſoon as they the King diſplaid,</l>
+            <l>Who can imagin what a ſhout they made?</l>
+            <l>The glitering of their cloaths out vy'd the ſuns,</l>
+            <l>Hats in the Ayre flew up; Guns roard to Guns,</l>
+            <l>&amp; trumpets deafned trumpets, who'd have thought</l>
+            <l>Theſe ere in arms' gainſt each other had fought?</l>
+            <l>Th' outlandiſhmen that markd it, and ſtood by,</l>
+            <l>In our behalf all out aloud did cry,</l>
+            <l>Was never Nation now more bleſt then wee,</l>
+            <l>Nor ever monarch more admir'd then he,</l>
+            <l>Invirond thus, and come to the Cities gate,</l>
+            <l>He was received in all high pomp and State,</l>
+            <l>By the Lord Mayor and his brethren who,</l>
+            <pb n="6" facs="tcp:43504:5"/>
+            <l> Were proudly glad their Noble Prince to view,</l>
+            <l>How great will be our growing joyes we may,</l>
+            <l>Preſume will crown his Coronation day</l>
+            <l>Which to his matchleſs merit will be more,</l>
+            <l>Then ever King of Evgland had before,</l>
+            <l>At which ſince heaven &amp; earth with ſhouts do ring</l>
+            <l>Let altogether ſaye God ſave the King.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43504:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
